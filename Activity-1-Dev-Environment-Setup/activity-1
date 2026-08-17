@@ -1,0 +1,7 @@
+I set up my C/C++ environment in VS Code using MinGW-w64 GCC.
+At first, I was a little confused about whether GCC was installed correctly.
+I checked it by running "gcc --version" in the terminal.
+There was an issue with the PATH, so I added the MinGW-w64 bin folder to it.
+After that, GCC started working properly in the terminal.
+I created a simple "hello.c" program and compiled it successfully.
+Finally, I ran the program and got the “Hello, World!” output.
